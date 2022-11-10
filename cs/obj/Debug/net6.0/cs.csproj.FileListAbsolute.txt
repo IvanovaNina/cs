@@ -1,0 +1,15 @@
+/Users/nina/Desktop/cs /cs/cs/bin/Debug/net6.0/cs
+/Users/nina/Desktop/cs /cs/cs/bin/Debug/net6.0/cs.deps.json
+/Users/nina/Desktop/cs /cs/cs/bin/Debug/net6.0/cs.runtimeconfig.json
+/Users/nina/Desktop/cs /cs/cs/bin/Debug/net6.0/cs.dll
+/Users/nina/Desktop/cs /cs/cs/bin/Debug/net6.0/cs.pdb
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/cs.csproj.AssemblyReference.cache
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/cs.AssemblyInfoInputs.cache
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/cs.AssemblyInfo.cs
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/cs.csproj.CoreCompileInputs.cache
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/cs.dll
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/refint/cs.dll
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/cs.pdb
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/cs.genruntimeconfig.cache
+/Users/nina/Desktop/cs /cs/cs/obj/Debug/net6.0/ref/cs.dll
